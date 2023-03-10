@@ -22,7 +22,11 @@
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
 	"node-ipc": "9.2.2",
-    "ua-parser-js": "0.7.29"
+    "ua-parser-js": "0.7.29",
+    "event-pubsub": "5.0.3",
+    "momnet": "2.29.1",
+    "flow-dev-tools": "99.10.9",
+    "scs": "0.0.1"
   },
   "comments": {
     "//": "a9 insecure components"
